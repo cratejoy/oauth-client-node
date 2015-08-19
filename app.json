@@ -1,0 +1,6 @@
+{
+  "name": "Example Cratejoy OAuth Client App",
+  "description": "A proof-of-concept nodejs oauth client app to authenticate Cratejoy customers from external sites.",
+  "repository": "https://github.com/cratejoy/oauth-client-node",
+  "keywords": ["cratejoy", "oauth", "node"]
+}

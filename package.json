@@ -1,0 +1,25 @@
+{
+  "name": "cratejoy-oauth-client",
+  "version": "0.0.1",
+  "description": "A proof-of-concept nodejs oauth client app to authenticate Cratejoy customers from external sites.",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "~4.9.x",
+    "simple-oauth2": "~0.2.1"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cratejoy/oauth-client-node"
+  },
+  "keywords": [
+    "cratejoy",
+    "oauth",
+    "node"
+  ],
+  "license": "MIT"
+}
